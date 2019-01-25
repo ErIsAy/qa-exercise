@@ -1,1 +1,36 @@
 //please add your test cases here.
+
+Test cases:
+
+    x-Add todo
+    x-Select category for X new todo
+    x-Select due date for X new todo
+    x-Complete todos
+    x-edit todos
+        x-Update todo title
+        x-Update category
+        x-Update date
+    x-Delete x todo of list
+    x-Verify toggle all feature
+    x-Delete all todos
+    x-Click toggle all todos 
+
+x-Advanced feature & assert buttons 
+
+x-Add a new category
+    x-Selecting color for X new category
+
+x-Remove given category
+    x-press nevermind
+    x-press yes
+    
+    
+API Test Cases:
+
+    Note: There can be more than below suggested test cases.
+
+    x-Test service status of the API endpoint (only one in this case)
+    x-Find how many tasks do not have "category" assigned
+    x-Aggregate and print only "task names"
+    x-Read API response and print tasks in descending "due date" order
+    x-Count and validate the number of tasks
